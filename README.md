@@ -1,6 +1,6 @@
 # anemone
 
-<!doctype html>
+
 <html>
   <head>
     <title> Anemone: A simple website for my hobby! </title>
