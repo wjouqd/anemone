@@ -3,7 +3,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>Anemone: A simple website for my hobby!</title>
+    <title> Anemone: A simple website for my hobby! </title>
   </head>
   <body>
     <p>Learning and trying new skills is fun. To recording the process is also fun.
